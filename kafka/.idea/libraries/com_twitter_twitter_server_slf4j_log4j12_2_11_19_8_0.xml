@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="com.twitter:twitter-server-slf4j-log4j12_2.11:19.8.0" type="repository">
+    <properties maven-id="com.twitter:twitter-server-slf4j-log4j12_2.11:19.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/twitter-server-slf4j-log4j12_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/twitter-server_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-core_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-init_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-cache_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-codec_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-hashing_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-logging_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-security_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-stats_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/caffeine-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HdrHistogram-2.1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-http_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-base-http_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-epoll-4.1.38.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-unix-common-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-proxy-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-socks-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-netty4-http_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-netty4_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-http2_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http2-4.1.38.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-toggle_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/finagle-tunable_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-app_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-core_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-function_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.11.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-parser-combinators_2.11-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-jvm_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-lint_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-registry_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-slf4j-api_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-slf4j-jul-bridge_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util-tunable_2.11-19.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-scala_2.11-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-paranamer-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/paranamer-2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
