@@ -61,7 +61,7 @@ def callUser(phone,msg):
     
 if __name__ == '__main__':
     # 根据aws connect服务配置的用户安全组拿到phone信息，也可以在代码中自定义
-    callgroup='mayday'
+    callgroup='agent'
     phones=listUser(callgroup)
     # 自定义播报的信息，建议重复三遍以上
     message = 'webserver down;'
